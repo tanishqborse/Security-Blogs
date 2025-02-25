@@ -11,7 +11,7 @@ Welcome to **CyberChronicles**, where I share my insights, research, and experie
 
 | 🔗 Blog Title | 📅 Date | 📖 Read |
 |--------------|--------|--------|
-| **[Strengthening Firmware Integrity](#)** | Feb 2025 | [Read More](https://github.com/tanishqborse/Security-Blogs/Strengthening Firmware Integrity.md) |
+| **[Strengthening Firmware Integrity](#)** | Feb 2025 | [Read More](https://github.com/tanishqborse/Security-Blogs/blob/main/Strengthening%20Firmware%20Integrity.md)) |
 | **[AI in Malware Detection](#)** | Feb 2025 | [Read More](#) |
 | **[Threat Modeling for Secure Apps](#)** | Jan 2025 | [Read More](#) |
 | **[Embedded System Security](#)** | Dec 2024 | [Read More](#) |
