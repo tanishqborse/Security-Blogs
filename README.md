@@ -21,7 +21,7 @@ Welcome to **CyberChronicles**, where I share my insights, research, and experie
 | **[Threat Modeling Masterclass](#)** | Nov 2024 | [Read More](#) |
 | **[Security Operations Cookbook](#)** | Nov 2024 | [Read More](#) |
 | **[Next Gen SOAR](#)** | Nov 2024 | [Read More](#) |
-
+| **[Windows hardening techniques (AppLocker, Defender ATP, AD Security).](#)** | Nov 2024 | [Read More](#) |
 ---
 
 ## 📌 **Topics Covered**
