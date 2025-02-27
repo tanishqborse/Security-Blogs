@@ -35,15 +35,6 @@ Welcome to **CyberChronicles**, where I share my insights, research, and experie
 
 ---
 
-## 💡 **How to Use This Repository?**
-
-📖 Browse through my blog articles in the `blogs/` directory.  
-📩 Open an issue for discussions, feedback, or collaboration ideas.  
-⭐ Star this repository if you find it useful!  
-🔎 Use the search functionality to find specific topics.  
-
----
-
 ## 🎯 **Connect With Me**
 
 💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🔗 [Personal Website](#) | 📧 [Email](#)
