@@ -2,8 +2,6 @@
 
 Welcome to **CyberChronicles**, where I share my insights, research, and experience in **cybersecurity, application security, threat modeling, AI for security, and more**.
 
-![Cybersecurity Banner](https://source.unsplash.com/1000x250/?cybersecurity,technology)
-
 ---
 ## 📚 **Latest Blogs**
 
