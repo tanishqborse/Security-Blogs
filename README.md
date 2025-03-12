@@ -35,7 +35,7 @@ Welcome to **CyberChronicles**, where I share my insights, research, and experie
 
 ## 🎯 **Connect With Me**
 
-💼 [LinkedIn](#) | 🐦 [Twitter](#) | 🔗 [Personal Website](#) | 📧 [Email](#)
+💼 [LinkedIn](https://www.linkedin.com/in/tanishqborse/) | 🔗 [Startup Website](https://camasecurity.com/) | 📧 [Email](tb7223@rit.edu)
 
 📢 Stay updated with my latest cybersecurity insights and research!
 
