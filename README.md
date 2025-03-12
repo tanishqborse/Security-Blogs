@@ -10,16 +10,16 @@ Welcome to **CyberChronicles**, where I share my insights, research, and experie
 | 🔗 Blog Title | 📅 Date | 📖 Read |
 |--------------|--------|--------|
 | **[Strengthening Firmware Integrity](#)** | Feb 2025 | [Read More](https://github.com/tanishqborse/Security-Blogs/blob/main/Strengthening%20Firmware%20Integrity.md) |
-| **[AI in Malware Detection](#)** | Feb 2025 | [Read More](#) |
-| **[Threat Modeling for Secure Apps](#)** | Jan 2025 | [Read More](#) |
-| **[Embedded System Security](#)** | Dec 2024 | [Read More](#) |
-| **[Deep Learning for Cybersecurity](#)** | Nov 2024 | [Read More](#) |
-| **[Security in Agentic AI and RAG's](#)** | Nov 2024 | [Read More](#) |
-| **[End-to-End Encryption: A Battle Between Privacy & Traceability](#)** | Nov 2024 | [Read More](#) |
-| **[Threat Modeling Masterclass](#)** | Nov 2024 | [Read More](#) |
-| **[Security Operations Cookbook](#)** | Nov 2024 | [Read More](#) |
-| **[Next Gen SOAR](#)** | Nov 2024 | [Read More](#) |
-| **[Windows hardening techniques (AppLocker, Defender ATP, AD Security).](#)** | Nov 2024 | [Read More](#) |
+| **[AI in Malware Detection](#)** | March 2025 | [](#) |
+| **[Threat Modeling for Secure Apps](#)** | March 2025 | [](#) |
+| **[Embedded System Security](#)** | April 2025 | [](#) |
+| **[Deep Learning for Cybersecurity](#)** | April 2025 | [](#) |
+| **[Security in Agentic AI and RAG's](#)** | May 2025 | [](#) |
+| **[End-to-End Encryption: A Battle Between Privacy & Traceability](#)** | May 2025 | [](#) |
+| **[Threat Modeling Masterclass](#)** | May 2025 | [](#) |
+| **[Security Operations Cookbook](#)** | June 2025 | [](#) |
+| **[Next Gen SOAR](#)** | July 2025 | [](#) |
+| **[Windows hardening techniques (AppLocker, Defender ATP, AD Security).](#)** | July 2025 | [](#) |
 ---
 
 ## 📌 **Topics Covered**
